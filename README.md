@@ -1,4 +1,7 @@
 # Car Monitoring System in Apartment Garages by Small Autonomous Car using Deep Learning
+
+Poster-Presentation Paper:https://arxiv.org/abs/1809.00251
+
 This repository contains the main paper, the abstract for LatinX in AI workshop and some files, programs, photos, videos, etc. used in this project. 
 
 
