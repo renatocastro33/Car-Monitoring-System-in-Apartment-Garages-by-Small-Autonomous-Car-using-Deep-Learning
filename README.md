@@ -1,4 +1,4 @@
-# Vehicles Monitoring System by Mini-Car
+# Car Monitoring System in Apartment Garages by Small Autonomous Car using Deep Learning
 This repository contains the main paper, the abstract for LatinX in AI workshop and some files, programs, photos, videos, etc. used in this project. 
 
 
